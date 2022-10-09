@@ -1,3 +1,3 @@
-# news
+# News-App-Flutter
 
 Flutter News App.
